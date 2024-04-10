@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "307490505145",
+    "project_id": "notification-app-e3b1a",
+    "storage_bucket": "notification-app-e3b1a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:307490505145:android:7dde2a797b7455aa477668",
+        "android_client_info": {
+          "package_name": "com.example.weather_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeJhnzCsPmRQjVOBHd8C5Zbc4Ku19NlTE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
